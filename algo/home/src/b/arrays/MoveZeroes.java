@@ -2,6 +2,8 @@ package b.arrays;
 
 public class MoveZeroes {
 
+    // input can be empty
+
     public void moveZeroes(int[] nums) {
 
         // This is a 2 Pointer approach
