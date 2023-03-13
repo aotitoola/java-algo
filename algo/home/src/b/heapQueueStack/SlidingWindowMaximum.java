@@ -23,7 +23,7 @@ public class SlidingWindowMaximum {
         // the largest value stay at the first element
 
         // if current element is larger than first element, remove first element in deque
-        // then add current element to the beginning of the dequue
+        // then add current element to the beginning of the deque
 
         // if we want to know the max element in that window,
         // it will be the max element in that deque at that time

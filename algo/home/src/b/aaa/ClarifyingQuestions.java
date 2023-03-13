@@ -17,7 +17,7 @@ public class ClarifyingQuestions {
 
     // Ask for an example of input and output
     // Clarify the data type
-    // Clarify any kinds of restrictions in range (e.g will there be numbers bigger than the largest int?)
+    // Clarify any kinds of restrictions in range (e.g. will there be numbers bigger than the largest int?)
     // Ask about whether you need to deal with certain edge cases or not.
     // Make sure you can or cannot use certain libraries and features of the language you are programming in.
     // If you have 2 solutions in mind ask whether it is more important to prioritize time or space complexity

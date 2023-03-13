@@ -1,5 +1,6 @@
 package org.learn.solid.dependencyInversion.processes;
 
+
 public class LaptopManufacturingProcess extends GeneralManufacturingProcess{
     public LaptopManufacturingProcess(String processName) {
         super(processName);
